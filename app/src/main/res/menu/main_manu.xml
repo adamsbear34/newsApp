@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        
+        <item
+            android:id="@+id/nav_favorite"
+            android:title="Favorite"
+            android:icon="@drawable/icon_favorit" />
+    </group>
+
+    <item android:title="About">
+
+            <menu>
+
+                <item
+                    android:id="@+id/nav_about"
+                    android:title="About Us"
+                    android:icon="@drawable/icon_about" />
+
+            </menu>
+
+    </item>
+
+
+</menu>

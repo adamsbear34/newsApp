@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_nav_title">Your News</string>
+    <string name="nav_from">Evgeniy Shomin</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="API_KEY">bd5dc9ed19ea4ec6b9acf749cac44d5d</string>
+    <string name="search_string">Search</string>
+    <string name="title">TITLE</string>
+    <string name="date">DATE</string>
+    <string name="source">SOURCE</string>
+    <string name="Description">News short Description</string>
+    <string name="read">Read More</string>
+    <string name="remove">Remove</string>
+    <string name="authorName">Created by: Evgeniy Shomin</string>
+</resources>
